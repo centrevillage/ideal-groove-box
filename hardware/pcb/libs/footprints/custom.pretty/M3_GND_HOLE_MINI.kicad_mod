@@ -1,0 +1,9 @@
+(module M3_GND_HOLE_MINI (layer F.Cu) (tedit 5DCD5EEF)
+  (fp_text reference H1 (at 0.25 4.25) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value M3_Hole (at 0.25 -5.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 4.5 4.5) (drill 3.1) (layers *.Cu *.Mask))
+)

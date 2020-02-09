@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name 74ahct1g125)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/74ahct1g125.lib)(options "")(descr ""))
+  (lib (name 74ahct125)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/74ahct125.lib)(options "")(descr ""))
+  (lib (name alliance_memory)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/alliance_memory.lib)(options "")(descr ""))
+  (lib (name pcm3060)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/pcm3060.lib)(options "")(descr ""))
+)

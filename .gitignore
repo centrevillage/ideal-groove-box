@@ -40,7 +40,8 @@
 *.swo
 *.kicad_pcb-bak
 
-build/*
+firmware/build/*
+!firmware/build/.keep
 tags
 .envrc
 

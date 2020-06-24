@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name daisy-eagle-import)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/daisy-eagle-import.lib)(options "")(descr ""))
+  (lib (name AK4556VT)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/AK4556VT.lib)(options "")(descr ""))
+)

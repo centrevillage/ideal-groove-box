@@ -1,0 +1,9 @@
+(module 10HP_MASK_BAR (layer F.Cu)
+  (fp_text reference REF** (at -6 -2) (layer F.SilkS) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value 10HP_MASK_BAR (at -5.5 -3.5) (layer F.Fab) hide
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_poly (pts (xy 0 0) (xy 50.5 0) (xy 50.5 10) (xy 0 10)) (layer B.Mask) (width 0.01))
+)

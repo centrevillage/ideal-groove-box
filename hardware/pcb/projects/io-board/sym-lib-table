@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name pj3410)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/pj3410.lib)(options "")(descr ""))
+  (lib (name TLP2361)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/TLP2361.lib)(options "")(descr ""))
+)

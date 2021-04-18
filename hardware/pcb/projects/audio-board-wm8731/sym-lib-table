@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name wm8731)(type Legacy)(uri C:/projects/ideal-groove-box/hardware/pcb/libs/symbols/wm8731.lib)(options "")(descr ""))
+)
